@@ -1,0 +1,51 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="GNU GPL v3.0"
+issueTrackerURL="mailto:3848394903@qq.com"
+
+[[mods]]
+modId="darkbluemoon"
+version="1.0.0"
+displayName="Dark Blue Moon Stand"
+logoFile="darkbluemoon.png"
+logoBlur=true
+authors="Grasshopper,Day_GeE"
+credits="Grasshopper (Author), Day_GeE (Modeler) | Support: https://ifdian.net/a/mazaNB666"
+description='''
+Dark Blue Moon - A JoJo Stand addon by Grasshopper.
+
+This addon adds the Dark Blue Moon Stand to Ripples of the Past.
+
+Support me on Afdian:
+https://ifdian.net/a/mazaNB666
+
+Contact: 3848394903@qq.com
+'''
+
+[[dependencies.darkbluemoon]]
+modId="forge"
+mandatory=true
+versionRange="[36,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.darkbluemoon]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.16.5,1.17)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.darkbluemoon]]
+modId="jojo"
+mandatory=true
+versionRange="[0.2,)"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.darkbluemoon]]
+modId="geckolib3"
+mandatory=true
+versionRange="[3.0,)"
+ordering="AFTER"
+side="BOTH"

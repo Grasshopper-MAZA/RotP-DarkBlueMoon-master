@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S S",
+    "BSB",
+    " B "
+  ],
+  "key": {
+    "B": {
+      "item": "darkbluemoon:barnacle"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "darkbluemoon:barnacle_necklace"
+  }
+}

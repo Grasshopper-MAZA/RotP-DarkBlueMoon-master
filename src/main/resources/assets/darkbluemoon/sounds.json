@@ -1,0 +1,92 @@
+{
+  "dark_blue_moon_summon_voiceline": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "darkbluemoon:dark_blue_moon_summon_voiceline",
+        "stream": false
+      }
+    ]
+  },
+  "dark_blue_moon_ost": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "darkbluemoon:dark_blue_moon_ost",
+        "stream": true
+      }
+    ]
+  },
+  "dark_blue_moon_chop_hit_water": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "darkbluemoon:dark_blue_moon_chop_hit_water",
+        "stream": false
+      }
+    ]
+  },
+  "dark_blue_moon_chop_hit_land": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "darkbluemoon:dark_blue_moon_chop_hit_land",
+        "stream": false
+      }
+    ]
+  },
+  "dark_blue_moon_chop_use_water_1": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "darkbluemoon:dark_blue_moon_chop_use_water_1",
+        "stream": false
+      }
+    ]
+  },
+  "dark_blue_moon_chop_use_water_2": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "darkbluemoon:dark_blue_moon_chop_use_water_2",
+        "stream": false
+      }
+    ]
+  },
+  "dark_blue_moon_chop_use_water_3": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "darkbluemoon:dark_blue_moon_chop_use_water_3",
+        "stream": false
+      }
+    ]
+  },
+  "dark_blue_moon_chop_use_land_1": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "darkbluemoon:dark_blue_moon_chop_use_land_1",
+        "stream": false
+      }
+    ]
+  },
+  "dark_blue_moon_chop_use_land_2": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "darkbluemoon:dark_blue_moon_chop_use_land_2",
+        "stream": false
+      }
+    ]
+  },
+  "dark_blue_moon_chop_use_land_3": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "darkbluemoon:dark_blue_moon_chop_use_land_3",
+        "stream": false
+      }
+    ]
+  }
+}
